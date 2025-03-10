@@ -1,1 +1,1 @@
-# Predict-exam-scores_202401100400146
+A linear Regression model will be applied to analyze the relation between Study Hours per Week, Past Exam Scores, Attendance Rate, Parental Education Level, Internet Access at Home, Extracurricular Activities and Final Exam Scores. The main objective is to determine the most influential factors affecting students performance and visualize their impact.
